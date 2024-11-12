@@ -23,14 +23,13 @@ export default defineConfig({
           { text: "Deployment", link: "/quickstart/deployment" },
         ],
       },
-      // {
-      //   text: "Api References",
-      //   items: [
-      //     { text: "Routers", link: "/docs" },
-      //     { text: "Controllers", link: "/docs" },
-      //     { text: "Models", link: "/docs" },
-      //   ],
-      // },
+      {
+        text: "Api References",
+        items: [
+          { text: "Routers", link: "/api-references/router" },
+          { text: "Context", link: "/api-references/context" },
+        ],
+      },
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
