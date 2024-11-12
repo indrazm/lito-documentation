@@ -11,30 +11,26 @@ export default defineConfig({
     sidebar: [
       {
         text: "Fundamentals",
-        items: [
-          { text: "Litojs", link: "/about-lito" },
-          // { text: "Philoshophy", link: "/philosophy" },
-          // { text: "Approach", link: "/approach" },
-        ],
+        items: [{ text: "Litojs", link: "/fundamentals/about-lito" }],
       },
       {
         text: "Quick Start",
         items: [
-          { text: "Lito App", link: "/docs" },
-          { text: "Router", link: "/router" },
-          { text: "Controller", link: "/docs" },
-          { text: "Models", link: "/docs" },
-          { text: "Deployment", link: "/docs" },
+          { text: "Create app", link: "/quickstart/create-app" },
+          { text: "Router", link: "/quickstart/router" },
+          { text: "Controller", link: "/quickstart/controller" },
+          { text: "Models", link: "/quickstart/models" },
+          { text: "Deployment", link: "/quickstart/deployment" },
         ],
       },
-      {
-        text: "Api References",
-        items: [
-          { text: "Routers", link: "/docs" },
-          { text: "Controllers", link: "/docs" },
-          { text: "Models", link: "/docs" },
-        ],
-      },
+      // {
+      //   text: "Api References",
+      //   items: [
+      //     { text: "Routers", link: "/docs" },
+      //     { text: "Controllers", link: "/docs" },
+      //     { text: "Models", link: "/docs" },
+      //   ],
+      // },
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],

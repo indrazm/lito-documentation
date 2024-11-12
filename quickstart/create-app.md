@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Getting Started
+# Create Lito App
 
 To create project with lito, you can create by this command. It will create the boilerplate for you. Everything would be setuped and you are good to go!
 

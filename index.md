@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /about-lito
+      link: /fundamentals/about-lito
     - theme: alt
       text: Documentation
-      link: /docs
+      link: /quickstart/create-app
 
 features:
   - title: Fully SSR
