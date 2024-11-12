@@ -3,9 +3,8 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Litojs Documentation",
-  description: "A VitePress Site",
+  description: "A pragmatic fullstack javascript framework",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
@@ -32,6 +31,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/indrazm" }],
   },
 });
