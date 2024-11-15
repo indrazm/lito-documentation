@@ -2,8 +2,11 @@
 
 To create project with lito, you can create by this command. It will create the boilerplate for you. Everything would be setuped and you are good to go!
 
+> [!CAUTION]
+> Not Ready to use. This is still in development.
+
 ```bash
-bunx create lito
+# bunx create lito
 ```
 
 In project folder there is `apps` folder where you can see all the `app`. We do refer this `app` term to be a services where you can define your app.

@@ -18,6 +18,7 @@ export default defineConfig({
           { text: "Create app", link: "/quickstart/create-app" },
           { text: "Router", link: "/quickstart/router" },
           { text: "Controller", link: "/quickstart/controller" },
+          { text: "Views", link: "/quickstart/views" },
           { text: "Models", link: "/quickstart/models" },
           { text: "Deployment", link: "/quickstart/deployment" },
         ],

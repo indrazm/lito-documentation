@@ -2,6 +2,9 @@
 outline: deep
 ---
 
+> [!CAUTION]
+> Not Ready to use. This framework is currently under development
+
 # Lito
 
 Litojs is an open-source, full-stack JavaScript framework designed for practicality and ease of use, drawing inspiration from established frameworks like Django and Laravel. It offers a comprehensive set of features to facilitate web application development, including database models with LitoORM, as well as authentication, authorization, APIs, and controllers.
