@@ -10,7 +10,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "Fundamentals",
-        items: [{ text: "Litojs", link: "/fundamentals/about-lito" }],
+        items: [
+          { text: "Litojs", link: "/fundamentals/about-lito" },
+          { text: "Roadmap", link: "/fundamentals/roadmap" },
+        ],
       },
       {
         text: "Quick Start",
