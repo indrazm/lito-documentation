@@ -25,4 +25,5 @@
 - 🔲 Websockets
 - 🔲 ORM
 - 🔲 Project Test
+- 🔲 Lito Command-line tool
 - ✅ Documentation
