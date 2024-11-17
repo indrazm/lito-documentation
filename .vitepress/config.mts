@@ -37,6 +37,9 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/indrazm" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/litojs/litojs" },
+      { icon: "twitter", link: "https://x.com/indrazulfi" },
+    ],
   },
 });
