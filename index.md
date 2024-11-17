@@ -14,13 +14,13 @@ hero:
       link: /quickstart/create-app
 
 features:
-  - title: SSR and CSR
+  - title: Fully SSR
     icon: ⚡
     details: Lito supports both server-side rendering and client-side rendering
-  - title: LitoORM
+  - title: LitoORM (soon)
     icon: 🍜
     details: Lito comes with a built-in ORM for easy database management
-  - title: Docker Ready
+  - title: Docker Ready (soon)
     icon: 🚀
     details: Lito is docker ready out of the box for easy deployment
   - title: Convention over code

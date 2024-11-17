@@ -26,7 +26,7 @@ const Home = (props: Props) => {
 
 ```tsx
 import { Controller } from "litojs";
-import { view } from "litojs/renderer";
+import { view } from "litojs/utils";
 
 export class MyController extends Controller {
   async index() {

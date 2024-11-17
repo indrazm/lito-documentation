@@ -3,7 +3,7 @@ outline: deep
 ---
 
 > [!CAUTION]
-> Not Ready to use. This framework is currently under development
+> Not Ready to use. This framework is currently under experimental development.
 
 # Lito
 
