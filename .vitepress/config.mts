@@ -12,6 +12,8 @@ export default defineConfig({
         text: "Fundamentals",
         items: [
           { text: "Litojs", link: "/fundamentals/about-lito" },
+          { text: "HTMX", link: "/fundamentals/htmx" },
+          { text: "Alpinejs", link: "/fundamentals/alpinejs" },
           { text: "Roadmap", link: "/fundamentals/roadmap" },
         ],
       },

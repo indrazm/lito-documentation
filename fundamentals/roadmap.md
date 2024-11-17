@@ -16,14 +16,16 @@
 - ✅ Request Cookies
 - ✅ Request Query
 - ✅ Cookie Setter
+- ✅ JSX Renderer
+- ✅ Redirection
 - 🔲 Validation
-- ✅ Middleware
+- 🔲 Middleware
 - 🔲 Authentication
 - 🔲 Authorization
 - 🔲 File Uploads
 - 🔲 Email
 - 🔲 Websockets
-- 🔲 ORM
+- 🍳 ORM
 - 🔲 Project Test
-- 🔲 Lito Command-line tool
+- 🍳 Lito Command-line tool
 - ✅ Documentation
